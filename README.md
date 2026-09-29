@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/PZ2fwzl.png" alt="KILL LOGITECH LOGO" width="800">
+  <img src="https://i.imgur.com/PZ2fwzl.png" alt="KILL LOGITECH LOGO" width="400">
 </p>
 
 <h1 align="center">KILL-LOGITECH(.bat)</h1>
@@ -16,7 +16,7 @@ Logitech GHUB does this really funny thing that will prevent your PC from going 
 
 ## Features
 
-It KILLS logitech
+It KILLS logitech \n
 Detects if its running or not and will tell you if its not
 
 ## How to Download
