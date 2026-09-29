@@ -16,7 +16,7 @@ Logitech GHUB does this really funny thing that will prevent your PC from going 
 
 ## Features
 
-It KILLS logitech \n
+It KILLS logitech  
 Detects if its running or not and will tell you if its not
 
 ## How to Download
